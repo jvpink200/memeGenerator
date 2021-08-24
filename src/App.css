@@ -7,10 +7,6 @@ body {
     background-color: whitesmoke;
 }
 
-.App {
-  text-align: center;
-}
-
 header {
     height: 100px;
     display: flex;
